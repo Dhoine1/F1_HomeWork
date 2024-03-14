@@ -1,0 +1,16 @@
+main {
+    color: black;
+    background-color: bisque;
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.some-button {
+    margin: 15px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
